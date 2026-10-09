@@ -2,7 +2,7 @@
 
 ## Říjen
 
-### 2.10.2025
+### 2.10.2026
 
 - seznámení
 - tvoříme první program v pythonu - knihovna želva
