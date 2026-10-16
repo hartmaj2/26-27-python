@@ -27,3 +27,18 @@
 - příště
   - přidat náhodně chodícího nepřítele
   
+### 16.10.2026
+
+- náhodný pohyb želvy
+  - volba náhodného úhlu
+- omezení pohybu želvy
+  - otočka, když jsou souřadnice moc velké/malé
+- přidání více želev
+
+- hazardní program
+  - zadáme vklad
+  - hodíme mincí
+  - hráč buď vyhraje, nebo prohraje svůj vklad
+
+- příště
+  - ukázat godot?
