@@ -1,0 +1,3 @@
+# Na radku nize si muzeme vyzkouset, jak funguje tab
+
+|xxx|xxx|xxx|xxx|xxx|xxx|
