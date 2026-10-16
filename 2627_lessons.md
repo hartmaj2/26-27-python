@@ -12,7 +12,7 @@
 
 - příště
   - náhodný pohyb želvy
-  - více želev naráz\
+  - více želev naráz
 
 ### 9.10.2026
 
