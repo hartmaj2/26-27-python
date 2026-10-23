@@ -42,3 +42,20 @@
 
 - příště
   - ukázat godot?
+
+## 23.10.2026
+
+- motivace k psaní všemi deseti a kde cvičit - umíme informatiku
+- kde doma trénovat python - také umíme informatiku
+  - plus jedna, bagr je cool, ..., čokoláda
+- domlouváme se, na co se zaměříme během zbytku kroužku
+  - hangman
+  - microbit
+  - godot
+- doděláváme hazardní hru
+  - přidáváme nekonečný cyklus
+  - opravujeme chybu s datovým typem při čtení vstupu (string -> int)
+  - přidáváme čekání (time.sleep)
+
+- příště
+  - propracováváme se k hangmanovi
