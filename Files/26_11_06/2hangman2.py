@@ -72,6 +72,9 @@ while True:
         chyby += 1
     else:
         aktualni = uprav_aktualni(secret,aktualni,p)
+    if chyby >= len(STAVY):
+        print("Ty jsi ale jelito! Na to, kolik jsi měl pokusů jsi moc velký divadlo nezahrál.")
+        break
     if aktualni == secret:
         print("Jsi naprostá legenda!")
         break
