@@ -59,3 +59,15 @@
 
 - příště
   - propracováváme se k hangmanovi
+
+## 6.11.2026
+
+- ukazujeme si cesarovu šifru
+- program na počítání výskytů písmenka v textu
+  - nejprve jedno písmenko
+  - poté pomocí seznamu všechna písmenka
+- začínáme hangmana
+  - nahrazujeme podtržítka písmenkem
+
+- příště
+  - doděláme hangmana
