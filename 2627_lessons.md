@@ -71,3 +71,18 @@
 
 - příště
   - doděláme hangmana
+
+## 13.11.2026
+
+- počítáme sumu prvních n čísel
+  - vysvětlujeme si vzoreček pro přímý výpočet
+  - co se stane, když počítám ta lichá? (vyjdou mocniny dvojky)
+- programujeme hangmana
+  - přemýšlíme, jak bude vypadat program z ptačí perspektivy (high level)
+  - programujeme funkci, která vytvoří nový stav doposud uhádnutého slova
+
+- příště
+  - vybírat náhodná tajná slova
+  - microbit? 
+    - něco jednoduchého a zábavného
+  - přidat grafické rozhraní?
