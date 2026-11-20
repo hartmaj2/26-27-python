@@ -86,3 +86,15 @@
   - microbit? 
     - něco jednoduchého a zábavného
   - přidat grafické rozhraní?
+
+## 20.11.2026
+
+- doděláváme hangmana
+  - náhodný výběr tajného slova ze seznamu
+  - přidáváme do hry ASCII obrázky šibenice (vygenerovali jsme si je s AI)
+  - ukazujeme si své hry na projektoru
+
+- ukázka, jak vypadá microbit
+
+- příště
+  - microbit projekty
